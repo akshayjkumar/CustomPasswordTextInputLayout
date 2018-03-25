@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Password</string>
+    <string name="password_hint">Password</string>
+    <string name="password_weak">Weak</string>
+    <string name="password_good">Good</string>
+    <string name="password_strong">Strong</string>
+</resources>

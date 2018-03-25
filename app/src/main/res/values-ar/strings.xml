@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">كلمة المرور</string>
+    <string name="password_hint">كلمة المرور</string>
+    <string name="password_weak">كلمة مرور ضعيفة</string>
+    <string name="password_good">كلمة مرور جيدة</string>
+    <string name="password_strong">كلمة مرور قوية</string>
+</resources>
