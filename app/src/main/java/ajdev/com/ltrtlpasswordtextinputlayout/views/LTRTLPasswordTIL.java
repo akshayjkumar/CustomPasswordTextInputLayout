@@ -43,18 +43,18 @@ public class LTRTLPasswordTIL extends TextInputLayout {
      * password strength will be positioned towards the end of the layout. Value
      * of the legend is considered only if the associated error property of this
      * layout  is enabled.
-     * <p>
+     *
      * legend = false
-     * <p>
-     * |Password                                   |
-     * |___________________________________________|
-     * Error text                     Weak/ Strong
-     * <p>
+     *
+     *      |Password                                   |
+     *      |___________________________________________|
+     *      Error text                      Weak/ Strong
+     *
      * legend = true
-     * <p>
-     * |Password                                   |
-     * |___________________________________________|
-     * Error text/ Weak/ Strong
+     * 
+     *      |Password                                   |
+     *      |___________________________________________|
+     *                          Error text/ Weak/ Strong
      */
     private boolean legend = false;
     // Holds the context
